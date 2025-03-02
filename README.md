@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jatin Ahir
 
-<!--
-**Jatin2257/Jatin2257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀  
+I'm a **Full Stack Java Developer** specializing in **Spring Boot, Microservices, and AWS Lambda**, passionate about building scalable and efficient web solutions. With a strong foundation in backend development and cloud computing, I focus on crafting high-performance applications that solve real-world problems.
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools  
+- **Backend:** Java | Spring Boot | Microservices | REST APIs  
+- **Frontend:** React.js | JavaScript | HTML | CSS | React-Redux | Redux-Thunk
+- **Cloud & DevOps:** AWS Lambda | SAM | Docker | Git |  
+- **Databases:** MySQL | PostgreSQL | MongoDB  
+- **Coursework**: Object-Oriented Programming (OOP) | Data Structures and Algorithms (DSA)
+
+<hr/>
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jatin2257?theme=dark&font=Montserrat&ext=activity)
